@@ -21,6 +21,10 @@
     margin: 0px 0px 0px 155px;
 }
 
+.oof_description{
+
+}
+
         /* =========================
                 Main style part
         ===========================*/
@@ -62,6 +66,62 @@
     height: 729px;
     margin: 50px 40px -5px 0px;
 }
+
+
+    /* ================================
+        Our featured flower style part
+     =================================*/
+
+
+.our_featured_flowers{
+
+}
+
+.off_title {
+    color: #272727;
+    text-align: center;
+    font-size: 44px;
+    font-weight: 800;
+    margin: 129px 0px 24px 0px;
+}
+
+.off_description {
+    color: #27272799;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 400;
+    margin: 0px 375px 50px  375px;
+    line-height: 30px;
+}
+.off_image_container{
+
+}
+
+.oof_image_1st_div{
+
+}
+
+.oof_img_1{
+
+}
+
+.oof_image_2nd_div{
+
+}
+
+.oof_img_2{
+
+}
+
+.oof_image_3rd_div{
+
+}
+
+.oof_img_3{
+
+}
+
+
 
 
 
