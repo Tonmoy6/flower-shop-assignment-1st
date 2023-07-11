@@ -108,20 +108,27 @@
 }
 
 .oof_image_2nd_div{
-
+    border-radius: 190px 190px 0px 0px;
+    width: 390px;
+    height: 529px;
+    background: #0597a026;
 }
 
-.oof_img_2{
-
+.oof_img_2 {
+    padding: 110px 0px 0px 18px;
 }
 
 .oof_image_3rd_div{
-
+    border-radius: 190px 190px 0px 0px;
+    width: 390px;
+    height: 529px;
+    background: #477d1126;
 }
 
 .oof_img_3{
-
+    padding: 56px 0px 0px 40px;
 }
+
 .off_description_div{
 
 }
