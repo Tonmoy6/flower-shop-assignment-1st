@@ -2,24 +2,24 @@
                 Univarsal style part
         ===========================*/
 
-*{
-    margin: 0;
-    padding: 0;
-    font-family: 'Lato', sans-serif;
-}
+        * {
+            margin: 0;
+            padding: 0;
+            font-family: 'Lato', sans-serif;
+        }
 
-.btn_primary {
-    color: #fff;
-    font-size: 18px;
-    font-weight: 700;
-    display: inline-flex;
-    padding: 16px 34px;
-    align-items: flex-start;
-    border-radius: 10px;
-    border: none;
-    background: #E55473;
-    margin: 0px 0px 0px 155px;
-}
+        .btn_primary {
+            color: #fff;
+            font-size: 18px;
+            font-weight: 700;
+            display: inline-flex;
+            padding: 16px 34px;
+            align-items: flex-start;
+            border-radius: 10px;
+            border: none;
+            background: #E55473;
+            margin: 0px 0px 0px 155px;
+        }
 
 
         /* =========================
@@ -30,297 +30,347 @@
                 Hero_section style part
         ===========================*/
 
-.hero_section {
-    display: flex;
-    background-color: #e554731a;
-}
+        .hero_section {
+            display: flex;
+            background-color: #e554731a;
+        }
 
-.title_container{
+        .title_container {}
 
-}
+        .hero_title {
+            color: #272727;
+            font-size: 54px;
+            font-weight: 800;
+            margin: 198px 90px 30px 155px;
+        }
 
-.hero_title {
-    color: #272727;
-    font-size: 54px;
-    font-weight: 800;
-    margin: 198px 90px 30px 155px;
-}
+        .hero_description {
+            color: #27272799;
+            font-size: 15px;
+            font-weight: 400;
+            line-height: 30px;
+            margin: 0px 94px 32px 153px;
+        }
 
-.hero_description {
-    color: #27272799;
-    font-size: 15px;
-    font-weight: 400;
-    line-height: 30px;
-    margin: 0px 94px 32px 153px;
-}
+        .image_container {}
 
-.image_container{
-
-}
-
-.hero_section_image {
-    width: 598px;
-    height: 729px;
-    margin: 50px 40px -5px 0px;
-}
+        .hero_section_image {
+            width: 598px;
+            height: 729px;
+            margin: 50px 40px -5px 0px;
+        }
 
 
-    /* ================================
+        /* ================================
         Our featured flower style part
      =================================*/
 
 
-.our_featured_flowers{
+        .our_featured_flowers {}
 
-}
+        .off_title {
+            color: #272727;
+            text-align: center;
+            font-size: 44px;
+            font-weight: 800;
+            margin: 129px 0px 24px 0px;
+        }
 
-.off_title {
-    color: #272727;
-    text-align: center;
-    font-size: 44px;
-    font-weight: 800;
-    margin: 129px 0px 24px 0px;
-}
+        .off_description {
+            color: #27272799;
+            text-align: center;
+            font-size: 17px;
+            font-weight: 400;
+            margin: 0px 375px 50px 375px;
+            line-height: 30px;
+        }
 
-.off_description {
-    color: #27272799;
-    text-align: center;
-    font-size: 17px;
-    font-weight: 400;
-    margin: 0px 375px 50px  375px;
-    line-height: 30px;
-}
-.off_image_container {
-    display: flex;
-    justify-content: center;
-    gap: 33px;
-}
+        .off_image_container {
+            display: flex;
+            justify-content: center;
+            gap: 33px;
+        }
 
-.oof_image_1st_div {
-    border-radius: 190px 190px 0px 0px;
-    width: 390px;
-    height: 529px;
-    background: #a7216226;
-}
+        .oof_image_1st_div {
+            border-radius: 190px 190px 0px 0px;
+            width: 390px;
+            height: 529px;
+            background: #a7216226;
+        }
 
-.oof_img_1 {
-    padding: 101px 0px 0px 35px;
-}
+        .oof_img_1 {
+            padding: 101px 0px 0px 35px;
+        }
 
-.oof_image_2nd_div{
-    border-radius: 190px 190px 0px 0px;
-    width: 390px;
-    height: 529px;
-    background: #0597a026;
-}
+        .oof_image_2nd_div {
+            border-radius: 190px 190px 0px 0px;
+            width: 390px;
+            height: 529px;
+            background: #0597a026;
+        }
 
-.oof_img_2 {
-    padding: 110px 0px 0px 18px;
-}
+        .oof_img_2 {
+            padding: 110px 0px 0px 18px;
+        }
 
-.oof_image_3rd_div{
-    border-radius: 190px 190px 0px 0px;
-    width: 390px;
-    height: 529px;
-    background: #477d1126;
-}
+        .oof_image_3rd_div {
+            border-radius: 190px 190px 0px 0px;
+            width: 390px;
+            height: 529px;
+            background: #477d1126;
+        }
 
-.oof_img_3{
-    padding: 56px 0px 0px 40px;
-}
+        .oof_img_3 {
+            padding: 56px 0px 0px 40px;
+        }
 
-.off_description_div {
-    display: flex;
-    justify-content: space-around;
-    margin-top: 16px;
-    color: #272727;
-    text-align: center;
-    font-size: 14px;
-    font-weight: 700;
-    text-decoration-line: underline;
-}
+        .off_description_div {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 16px;
+            color: #272727;
+            text-align: center;
+            font-size: 14px;
+            font-weight: 700;
+            text-decoration-line: underline;
+        }
 
-.oof_description_1 {
-    padding: 0px 0px 0px 108px;
-}
-.oof_description_2 {
-    padding: 0px 0px 0px 0px;
-}
-.oof_description_3 {
-    padding: 0px 109px 0px 0px;
-}
+        .oof_description_1 {
+            padding: 0px 0px 0px 108px;
+        }
 
-                /* ==========================
+        .oof_description_2 {
+            padding: 0px 0px 0px 0px;
+        }
+
+        .oof_description_3 {
+            padding: 0px 109px 0px 0px;
+        }
+
+        /* ==========================
                                 Service Styles
                 ============================= */
-.Service {
-    background: #2727270d;
-    height: 250px;
-    width: 1235px;
-    margin: 108px 0px 108px 57px;
-}
+        .Service {
+            background: #2727270d;
+            height: 250px;
+            width: 1235px;
+            margin: 108px auto;
+        }
 
-.service_container {
-    display: flex;
-    justify-content: space-around;
-    padding: 70px 0px 0px 48px;
-}
+        .service_container {
+            display: flex;
+            justify-content: space-around;
+            padding: 70px 0px 0px 48px;
+        }
 
-.service_container_1{
+        .service_container_1 {}
 
-}
-
-.img_service_container_1{
-
-}
+        .img_service_container_1 {}
 
 
-.service_container_2{
+        .service_container_2 {}
 
-}
+        .img_service_container_2 {
+            padding: 0px 0px 0px 142px;
+        }
 
-.img_service_container_2 {
-    padding: 0px 0px 0px 142px;
-}
+        .service_container_3 {}
 
-.service_container_3{
+        .img_service_container_3 {
+            padding: 0px 0px 0px 12px;
+        }
 
-}
+        .service_details {
+            display: flex;
+            justify-content: space-around;
+        }
 
-.img_service_container_3 {
-    padding: 0px 0px 0px 12px;
-}
+        .service_details_1 {
+            color: rgba(39, 39, 39, 0.80);
+            text-align: center;
+            font-size: 24px;
+            font-weight: 600;
+            padding: 12px 0px 0px 0px;
+        }
 
-.service_details{
-display: flex;
-justify-content: space-around;
-}
+        .service_details_2 {
+            color: rgba(39, 39, 39, 0.80);
+            text-align: center;
+            font-size: 24px;
+            font-weight: 600;
+            padding: 12px 0px 0px 0px;
+        }
 
-.service_details_1 {
-    color: rgba(39, 39, 39, 0.80);
-    text-align: center;
-    font-size: 24px;
-    font-weight: 600;
-    padding: 12px 0px 0px 0px;
-}
+        .service_details_3 {
+            color: rgba(39, 39, 39, 0.80);
+            text-align: center;
+            font-size: 24px;
+            font-weight: 600;
+            padding: 12px 0px 0px 0px;
+        }
 
-.service_details_2{
-    color: rgba(39, 39, 39, 0.80);
-    text-align: center;
-    font-size: 24px;
-    font-weight: 600;
-    padding: 12px 0px 0px 0px;
-}
-
-.service_details_3{
-    color: rgba(39, 39, 39, 0.80);
-    text-align: center;
-    font-size: 24px;
-    font-weight: 600;
-    padding: 12px 0px 0px 0px;
-}
-
-                /* =============================
+        /* =============================
                         Discount style part
                 ===============================*/
 
-.discount {
-    display: flex;
-    justify-content: space-around;
-    background: #e554730d;
-    padding: 83px 237px 83px 181px;
- }
+        .discount {
+            display: flex;
+            justify-content: space-around;
+            background: #e554730d;
+            padding: 83px 237px 83px 181px;
+        }
 
-.discount_title_container{
+        .discount_title_container {}
 
-}
+        .discount_title {
+            color: #272727;
+            font-size: 36px;
+            margin: 109px 0px 23px 11px;
+            font-weight: 800;
+        }
 
-.discount_title {
-    color: #272727;
-    font-size: 36px;
-    margin: 109px 0px 23px 11px;
-    font-weight: 800;
-}
+        .discrount_description {
+            color: #27272799;
+            text-align: center;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 26px;
+            margin: 0px 63px 0px -16px;
+        }
 
-.discrount_description {
-    color: #27272799;
-    text-align: center;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26px;
-    margin: 0px 63px 0px -16px;
-}
+        #discount_btn {
+            margin: 23px 0px 0px 202px;
+        }
 
-#discount_btn {
-    margin: 23px 0px 0px 202px;
-}
+        .image_container {}
 
-.image_container{
-
-}
-
-.discount_section_image{
-
-}
+        .discount_section_image {}
 
 
-            /* ===============================
+        /* ===============================
                         Instagram style part 
              ===============================*/
 
-             .instagram {
-                height: 89px;
-                width: 1235px;
-                margin: 108px 0px 108px 57px;
-            }
+        .instagram {
+            height: 89px;
+            width: 1235px;
+            margin: 108px auto;
+        }
 
-.insta_title{
-    color: #272727;
-    text-align: center;
-    font-weight: 800;
-    font-size: 40px;
-}
+        .insta_title {
+            color: #272727;
+            text-align: center;
+            font-weight: 800;
+            font-size: 40px;
+        }
 
-.insta_description {
-    color: #27272799;
-    font-size: 18px;
-    text-align: center;
-    font-weight: 400;
-    line-height: 30px;
-    padding: 16px 320px 32px 320px;
-}
+        .insta_description {
+            color: #27272799;
+            font-size: 18px;
+            text-align: center;
+            font-weight: 400;
+            line-height: 30px;
+            padding: 16px 320px 32px 320px;
+        }
 
-.insta_image_container{
-    display: flex;
-    
-}
+        .insta_image_container {
+            display: flex;
 
-.insta_image1 {
-    width: 300px;
-    height: 330px;
-    margin: 0px 10px 30px 0px;
-}
+        }
 
-.insta_image2 {
-    width: 300px;
-    height: 330px;
-    margin: 0px 10px 30px 10px;
-}
+        .insta_image1 {
+            width: 300px;
+            height: 330px;
+            margin: 0px 10px 30px 0px;
+        }
 
-.insta_image3 {
-    margin: 0px 10px 30px 10px;
-    width: 300px;
-    height: 330px;
-}
+        .insta_image2 {
+            width: 300px;
+            height: 330px;
+            margin: 0px 10px 30px 10px;
+        }
 
-.insta_image4 {
-    margin: 0px 0px 30px 10px;
-    width: 300px;
-    height: 330px;
-}
+        .insta_image3 {
+            margin: 0px 10px 30px 10px;
+            width: 300px;
+            height: 330px;
+        }
+
+        .insta_image4 {
+            margin: 0px 0px 30px 10px;
+            width: 300px;
+            height: 330px;
+        }
+
 
                     /* ========================
                             Deals style part
-                   ========================= */
+                    ========================= */
 
-                   
+        .deals-container {
+            margin-top: 500px;
+            border-radius: 8px;
+            background-image: url('../image/Flower Asset/Rectangle\ 9.png');
+            background-repeat: no-repeat;
+            background-size: cover;
+            max-width: 1250px;
+            margin-left: auto;
+            margin-right: auto;
+            
+        }
+
+        .deals1 {
+            padding: 50px;
+        }
+
+        .sub {
+            text-align: center;
+        }
+
+        .texthol {
+            padding: 20px;
+            border: none;
+            border-radius: 8px;
+            background: #FFF;
+            width: 400px;
+            margin-left: 0px;
+        }
+        #btn33{
+            margin-left: 10px;
+        }
+
+                 /* ========================
+                         Footer Style part
+                   ===================== */
+
+    .foot{
+        background: #111010;
+        text-align: center;
+        color: #FFF;
+        margin-top: 100px;
+    }
+    .foot-ele{
+        padding: 100px 30px;
+    }
+
+    .foot_title{
+        font-size: 48px;
+        font-weight: 800;
+        margin-bottom: 16px;
+        
+    }
+    .foot_title span{
+        color:#E55473;
+    }
+
+    .foot_des{
+        margin-bottom: 16px;
+        
+    }
+
+    .add{
+        color: #ffffff66;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    }
