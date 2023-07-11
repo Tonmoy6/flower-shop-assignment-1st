@@ -156,8 +156,8 @@
 .Service {
     background: #2727270d;
     height: 250px;
-    width: 1239px;
-    margin: 108px 0px 108px 222px;
+    width: 1235px;
+    margin: 108px 0px 108px 57px;
 }
 
 .service_container {
@@ -224,12 +224,12 @@ justify-content: space-around;
                         Discount style part
                 ===============================*/
 
-                .discount {
-                    display: flex;
-                    justify-content: space-around;
-                    background: #e554730d;
-                    padding: 83px 237px 83px 181px;
-                }
+.discount {
+    display: flex;
+    justify-content: space-around;
+    background: #e554730d;
+    padding: 83px 237px 83px 181px;
+ }
 
 .discount_title_container{
 
@@ -263,3 +263,64 @@ justify-content: space-around;
 
 }
 
+
+            /* ===============================
+                        Instagram style part 
+             ===============================*/
+
+             .instagram {
+                height: 89px;
+                width: 1235px;
+                margin: 108px 0px 108px 57px;
+            }
+
+.insta_title{
+    color: #272727;
+    text-align: center;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.insta_description {
+    color: #27272799;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 16px 320px 32px 320px;
+}
+
+.insta_image_container{
+    display: flex;
+    
+}
+
+.insta_image1 {
+    width: 300px;
+    height: 330px;
+    margin: 0px 10px 30px 0px;
+}
+
+.insta_image2 {
+    width: 300px;
+    height: 330px;
+    margin: 0px 10px 30px 10px;
+}
+
+.insta_image3 {
+    margin: 0px 10px 30px 10px;
+    width: 300px;
+    height: 330px;
+}
+
+.insta_image4 {
+    margin: 0px 0px 30px 10px;
+    width: 300px;
+    height: 330px;
+}
+
+                    /* ========================
+                            Deals style part
+                   ========================= */
+
+                   
