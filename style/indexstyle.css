@@ -129,15 +129,128 @@
     padding: 56px 0px 0px 40px;
 }
 
-.off_description_div{
+.off_description_div {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 16px;
+    color: #272727;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+
+.oof_description_1 {
+    padding: 0px 0px 0px 108px;
+}
+.oof_description_2 {
+    padding: 0px 0px 0px 0px;
+}
+.oof_description_3 {
+    padding: 0px 109px 0px 0px;
+}
+
+                /* ==========================
+                                Service Styles
+                ============================= */
+.Service {
+    background: #2727270d;
+    height: 250px;
+    width: 1239px;
+    margin: 108px 0px 108px 222px;
+}
+
+.service_container {
+    display: flex;
+    justify-content: space-around;
+    padding: 70px 0px 0px 48px;
+}
+
+.service_container_1{
 
 }
 
-.oof_description{
+.img_service_container_1{
 
 }
 
 
+.service_container_2{
 
+}
 
+.img_service_container_2 {
+    padding: 0px 0px 0px 142px;
+}
+
+.service_container_3{
+
+}
+
+.img_service_container_3 {
+    padding: 0px 0px 0px 12px;
+}
+
+.service_details{
+display: flex;
+justify-content: space-around;
+}
+
+.service_details_1 {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 12px 0px 0px 0px;
+}
+
+.service_details_2{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 12px 0px 0px 0px;
+}
+
+.service_details_3{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 12px 0px 0px 0px;
+}
+
+                /* =============================
+                        Discount style part
+                ===============================*/
+
+                .discount {
+                    display: flex;
+                    justify-content: space-around;
+                    background: #e554730d;
+                    padding: 30px 80px 30px 80px;
+                }
+
+.discount_title_container{
+
+}
+
+.discount_title {
+    color: #272727;
+    font-size: 36px;
+    margin-bottom: 25px;
+    font-weight: 800;
+}
+
+.discrount_description{
+
+}
+
+.image_container{
+
+}
+
+.discount_section_image{
+
+}
 
